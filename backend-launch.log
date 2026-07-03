@@ -1,0 +1,7 @@
+
+> backend@1.0.0 start
+> node server.js
+
+◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+✅ Server running on http://localhost:5000
+^C^CTerminate batch job (Y/N)? 

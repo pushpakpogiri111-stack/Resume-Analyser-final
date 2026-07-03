@@ -1,0 +1,8 @@
+flask
+flask-cors
+pdfminer.six
+PyPDF2
+openai
+python-dotenv
+pymongo
+werkzeug
