@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="Gemini_Generated_Image_tc209rtc209rtc20" src="https://github.com/user-attachments/assets/973ca72e-49f8-4ad9-9072-828a191956f8" />
 # 🚀 Skillora – AI-Powered Career Preparation Platform
 
 **An AI-powered career preparation platform that helps job seekers optimize resumes, analyze ATS compatibility, identify skill gaps, practice AI-driven interviews, and improve hiring success.**
